@@ -1,2 +1,1 @@
-# Trollstore_IPAS
-legizmo not included because of dmca
+# 常用巨魔小工具
